@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Siyah-Beyaz Televizyonlar
+comments: true
+categories: [ görüntü işleme ]
+tags: [ ]
+description: "görüntü işleme, tv"
+keywords: "görüntü işleme, tv"
+# asides: []
+# author:
 ---
 
 Hepinizin bildiği gibi ilk televizyonlar siyah beyazdı. Dış dünyanın renkli halini bir display yardımıyla siyah-beyaz gösterip, renkli hayal ettirmek zorundaydınız. RGB renk uzayını siyah-beyaz hale dönüştürmek için bir değişkene ihtiyacımız var. 3 renkten hareketle siyah-beyaz yani grinin tonlarını elde etmeliyiz. Buna Y denilmiş (Luminance). Parlaklık gibi düşünebiliriz. 

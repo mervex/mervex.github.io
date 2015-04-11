@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Anlıyorum ama Konuşamıyorum:(
+comments: true
+categories: [ genel ]
+tags: [ ]
+description: "ingilizce, konuşma"
+keywords: "ingilizce, konuşma"
+# asides: []
+# author:
 ---
 
 Bir çoğumuzun ortak sorunu... İngilizce. İngilizcenizi geliştirmek için şunu yapın böyle çalışın demek isterdim ama ne yazık ki ben de hala ne yapsam nasıl öğrensem diye arayış içindeyim. Yine böyle günlerden birinde, gittiğim kursta katıldığım speaking club' da iki kelimeyi birleştiremeyip cevap veremediğimde hocam bi tavsiyede bulundu. Dil öğrenmek istiyorsan çok dinlemen lazım dedi. Dinlemek ve konuşmak bağlantılı şeyler, ne kadar çok duyarsan o kadar kolay konuşursun. Tabi ben hemen izlediğim dizileri falan saymaya başladım. (:P ) Çok fazla ingilizce dizi/film izleyen müzik dinleyen biriyim. Dublajdan da hiç hoşnanmam. Animasyonları bile altyazılı izlemeyi seviyorum. Ama sorun şu ki izlediğim, dinlediğim şeyleri anlamıyorum. Bi 'the big bang theory' i ingilizcesini anlayım diye izlemiyorum. Ya da 'Game of Thrones' u, 'Fringe'i...
